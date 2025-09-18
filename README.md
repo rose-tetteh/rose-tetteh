@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rose-tetteh
-- 👀 I’m interested in engineering
-- 🌱 I’m currently learning backend software development with java microservices.
+- 👀 I’m interested in tech
+- 🌱 I currently focus on backend software engineering & development with java microservices, Cloud deployment and AI integration.
 - ⚡ Fun fact: I love to smile 😄
 
 <!---
